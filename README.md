@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*The Joys of Hashing*](https://www.link.springer.com/book/10.1007/979-8-8688-0826-5) by Thomas Mailund (Apress, 2024).
+This repository accompanies [*The Joys of Hashing*]([https://www.link.springer.com/book/10.1007/979-8-8688-0826-5](https://link.springer.com/book/10.1007/979-8-8688-0826-5)) by Thomas Mailund (Apress, 2024).
 
 [comment]: #cover
 ![Cover image](979-8-8688-0825-8.jpg)
